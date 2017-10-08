@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Nadine.data.unityweb",
+"asmCodeUrl": "Nadine.asm.code.unityweb",
+"asmMemoryUrl": "Nadine.asm.memory.unityweb",
+"asmFrameworkUrl": "Nadine.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
